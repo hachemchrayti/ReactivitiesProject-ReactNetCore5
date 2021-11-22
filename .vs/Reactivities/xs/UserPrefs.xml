@@ -1,12 +1,14 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{D2A92CCC-8D0B-4D6D-9F69-E7CCE727F351}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Persistence/Migrations/20211122133823_InitialCreate.Designer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Persistence/Seed.cs">
     <Files>
       <File FileName="Domain/Activity.cs" Line="12" Column="42" />
       <File FileName="Persistence/DataContext.cs" Line="11" Column="1" />
       <File FileName="API/Startup.cs" Line="34" Column="14" />
-      <File FileName="API/appsettings.json" Line="6" Column="18" />
+      <File FileName="API/appsettings.json" Line="14" Column="1" />
       <File FileName="Persistence/Migrations/20211122133823_InitialCreate.cs" Line="22" Column="38" />
-      <File FileName="Persistence/Migrations/20211122133823_InitialCreate.Designer.cs" Line="11" Column="37" />
+      <File FileName="Persistence/Migrations/20211122133823_InitialCreate.Designer.cs" Line="12" Column="1" />
+      <File FileName="API/Program.cs" Line="34" Column="24" />
+      <File FileName="Persistence/Seed.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,9 +19,7 @@
             </Node>
             <Node name="Domain" expanded="True" />
             <Node name="Persistence" expanded="True">
-              <Node name="Migrations" expanded="True">
-                <Node name="20211122133823_InitialCreate.Designer.cs" selected="True" />
-              </Node>
+              <Node name="Seed.cs" selected="True" />
             </Node>
           </Node>
         </State>

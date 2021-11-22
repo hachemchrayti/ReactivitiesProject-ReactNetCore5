@@ -9,6 +9,7 @@ using Persistence;
 namespace Persistence.Migrations
 {
     [DbContext(typeof(DataContext))]
+
     [Migration("20211122133823_InitialCreate")]
     partial class InitialCreate
     {

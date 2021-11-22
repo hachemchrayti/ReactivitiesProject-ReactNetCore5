@@ -11,6 +11,6 @@ namespace Persistence
 
         }
 
-        DbSet<Activity> Activities { get; set; }
+        public DbSet<Activity> Activities { get; set; }
     }
 }
