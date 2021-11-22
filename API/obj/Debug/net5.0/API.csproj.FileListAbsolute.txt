@@ -6,7 +6,11 @@
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/API.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/ref/API.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/API.pdb
+/Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/AutoMapper.dll
+/Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/Humanizer.dll
+/Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/MediatR.dll
+/Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
