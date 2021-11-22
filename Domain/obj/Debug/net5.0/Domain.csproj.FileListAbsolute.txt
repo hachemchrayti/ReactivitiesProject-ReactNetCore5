@@ -9,3 +9,4 @@
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Domain/obj/Debug/net5.0/Domain.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Domain/obj/Debug/net5.0/ref/Domain.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Domain/obj/Debug/net5.0/Domain.pdb
+/Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache

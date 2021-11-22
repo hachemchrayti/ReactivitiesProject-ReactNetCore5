@@ -1,22 +1,21 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{D2A92CCC-8D0B-4D6D-9F69-E7CCE727F351}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ActivitiesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
     <Files>
       <File FileName="Domain/Activity.cs" Line="12" Column="42" />
-      <File FileName="Persistence/DataContext.cs" Line="14" Column="15" />
-      <File FileName="API/Startup.cs" Line="34" Column="14" />
-      <File FileName="API/Program.cs" Line="33" Column="14" />
-      <File FileName="Persistence/Seed.cs" Line="20" Column="47" />
-      <File FileName="API/Controllers/BaseApiController.cs" Line="7" Column="24" />
-      <File FileName="API/Controllers/ActivitiesController.cs" Line="8" Column="1" />
+      <File FileName="Persistence/DataContext.cs" />
+      <File FileName="API/Startup.cs" Line="55" Column="1" />
+      <File FileName="API/Program.cs" />
+      <File FileName="Persistence/Seed.cs" />
+      <File FileName="API/Controllers/BaseApiController.cs" />
+      <File FileName="API/Controllers/ActivitiesController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Reactivities" expanded="True">
             <Node name="API" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ActivitiesController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
             <Node name="Domain" expanded="True" />
             <Node name="Persistence" expanded="True" />
