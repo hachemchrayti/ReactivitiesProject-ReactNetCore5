@@ -1,25 +1,27 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{D2A92CCC-8D0B-4D6D-9F69-E7CCE727F351}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="API/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ActivitiesController.cs">
     <Files>
       <File FileName="API/Controllers/ActivitiesController.cs" Line="30" Column="1" />
-      <File FileName="API/Controllers/BaseApiController.cs" Line="14" Column="37" />
-      <File FileName="Application/Activities/Details.cs" Line="31" Column="2" />
-      <File FileName="Application/Activities/List.cs" Line="31" Column="10" />
-      <File FileName="Application/Activities/Create.cs" Line="20" Column="36" />
-      <File FileName="Application/Activities/Delete.cs" Line="36" Column="2" />
-      <File FileName="Application/Activities/Edit.cs" Line="37" Column="10" />
-      <File FileName="API/Program.cs" Line="19" Column="1" />
-      <File FileName="API/Startup.cs" Line="18" Column="18" />
-      <File FileName="Application/Core/MappingProfiles.cs" Line="13" Column="10" />
-      <File FileName="API/Extensions/ApplicationServiceExtensions.cs" Line="22" Column="54" />
+      <File FileName="API/Controllers/BaseApiController.cs" />
+      <File FileName="Application/Activities/Details.cs" />
+      <File FileName="Application/Activities/List.cs" />
+      <File FileName="Application/Activities/Create.cs" />
+      <File FileName="Application/Activities/Delete.cs" />
+      <File FileName="Application/Activities/Edit.cs" />
+      <File FileName="API/Program.cs" />
+      <File FileName="API/Startup.cs" />
+      <File FileName="Application/Core/MappingProfiles.cs" />
+      <File FileName="API/Extensions/ApplicationServiceExtensions.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Reactivities" expanded="True">
             <Node name="API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ActivitiesController.cs" selected="True" />
+              </Node>
               <Node name="Extensions" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
             </Node>
             <Node name="Application" expanded="True">
               <Node name="Activities" expanded="True" />
