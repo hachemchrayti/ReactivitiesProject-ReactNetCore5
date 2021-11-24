@@ -1,17 +1,7 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{D2A92CCC-8D0B-4D6D-9F69-E7CCE727F351}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ActivitiesController.cs">
     <Files>
-      <File FileName="API/Controllers/ActivitiesController.cs" Line="30" Column="1" />
-      <File FileName="API/Controllers/BaseApiController.cs" />
-      <File FileName="Application/Activities/Details.cs" />
-      <File FileName="Application/Activities/List.cs" />
-      <File FileName="Application/Activities/Create.cs" />
-      <File FileName="Application/Activities/Delete.cs" />
-      <File FileName="Application/Activities/Edit.cs" />
-      <File FileName="API/Program.cs" />
-      <File FileName="API/Startup.cs" />
-      <File FileName="Application/Core/MappingProfiles.cs" />
-      <File FileName="API/Extensions/ApplicationServiceExtensions.cs" />
+      <File FileName="API/Controllers/ActivitiesController.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,6 +19,7 @@
             </Node>
             <Node name="Domain" expanded="True" />
             <Node name="Persistence" expanded="True" />
+            <Node name="docker-compose" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -37,6 +28,7 @@
   <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

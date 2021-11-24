@@ -11,6 +11,7 @@
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net5.0/Persistence.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net5.0/ref/Persistence.dll
 /Volumes/Dev/Formations/ReactivitiesProject/Reactivities/Persistence/obj/Debug/net5.0/Persistence.pdb
